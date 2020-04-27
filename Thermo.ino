@@ -38,4 +38,4 @@ void loop(void)
     // 0 refers to the first IC on the wire
     delay(1000);
 }
-//Próba sor
+//Próba sor ez itt plusz
